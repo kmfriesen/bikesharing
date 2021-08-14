@@ -19,27 +19,32 @@ Using Tableau the following visualizations were created to help investors better
 - There was a total of 2,344,224 trips taken
 - 1,530,272 (~65%) trips taken by males
 - 588,431 (~25%) trips taken by females
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/GenderBreakdown.png)
 
 # August Peak Hours
 - The highest morning ride volume occurred at 8AM.
 - The highest afternoon ride volume occurred at 5 and 6 PM.
 - This appears to be related to morning and afternoon work commutes.
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/AugustPeakHours.png)
 
 # User Checkout Times 
 - The most common trip duration for all riders is about 5 minutes per ride.
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/CheckoutTimesForUsers.png)
 
 # Checkout Times by Gender
 - The most common trip duration for male riders is about 5 minutes per ride
 - For female riders it's about 6 minutes per ride.
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/CheckoutTimesByGender.png)
 
 # Weekday Trips per Hour
 - During weekdays, most rides occur at 8AM in the morning and 5PM to 6PM in the afternoon. 
 - This appears to be related to morning and afternoon work commutes. 
 - During weekends, we see a different story with most rides occurring between 10AM to 6PM. 
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/TripsByWeekdayPerHour.png)
 
 # Trips by Gender (Weekday per Hour)
@@ -47,11 +52,13 @@ Using Tableau the following visualizations were created to help investors better
 - During weekdays, most rides occur at 8AM in the morning and 5PM to 6PM in the afternoon. 
 - During weekends, most rides occurring between 10AM to 6PM. 
 - The highest volume of rides are by males between 5PM to 6PM on Thursdays.
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/TripsByGender(WeekdayPerHour).png)
 
 # User Trips by Gender by Weekday 
 - Most users are by far subscribers to CitiBike and are mostly male. 
 - Thursdays seem to be the most popular day for both males and females.
+
 ![alt text](https://github.com/kmfriesen/bikesharing/blob/main/Resources/UserTripsByGenderByWeekday.png)
 
 [Link](https://public.tableau.com/app/profile/kristine.friesen/viz/Citibike_Challenge_16289798521500/CitiBikeStory?publish=yes) to dashboard
